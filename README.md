@@ -17,8 +17,8 @@ A aplicação permite realizar operações matemáticas básicas de forma rápid
 
 * **Adição (+)** – Soma dois números.
 * **Subtração (-)** – Subtrai um número do outro.
-* **Multiplicação (*)** – Multiplica dois números.
-* **Divisão (/)** – Divide um número pelo outro.
+* **Multiplicação (×)** – Multiplica dois números.
+* **Divisão (÷)** – Divide um número pelo outro.
 * **Interface visual** feita com **HTML e CSS**.
 * **Interatividade** utilizando **JavaScript**.
 * **Validação de entradas** para evitar erros de cálculo.
@@ -36,16 +36,8 @@ A aplicação permite realizar operações matemáticas básicas de forma rápid
 ## 🚀 Como Executar o Projeto
 
 1. Clone ou faça o download deste repositório.
-
 2. Navegue até a pasta do projeto.
-
-3. Abra o arquivo:
-
-```
-index.html
-```
-
-em qualquer navegador.
+3. Abra o arquivo `index.html` em qualquer navegador.
 
 ---
 
