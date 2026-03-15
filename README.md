@@ -1,47 +1,89 @@
-# 🧮 Calculadora Simples em Python
+# 🧮 Calculadora Web
 
-Uma calculadora de linha de comando simples e funcional, desenvolvida em Python.
+Uma calculadora simples e interativa desenvolvida utilizando **HTML, CSS e JavaScript**.
+
+---
 
 ## 📝 Descrição
 
-Este projeto é uma implementação de uma calculadora básica que opera diretamente no seu terminal. Ela foi criada para realizar as quatro operações aritméticas fundamentais: adição, subtração, multiplicação e divisão.
+Este projeto é uma calculadora básica executada diretamente no navegador.
+Ela foi criada com o objetivo de praticar conceitos fundamentais de **desenvolvimento web**, incluindo **estruturação com HTML, estilização com CSS e lógica com JavaScript**.
 
-O script é interativo e guia o usuário a inserir os números e o operador desejado, além de possuir tratamento de erros para entradas inválidas.
+A aplicação permite realizar operações matemáticas básicas de forma rápida e intuitiva através de uma interface simples e amigável.
+
+---
 
 ## ✨ Funcionalidades
 
--   **Adição (+)**: Soma dois números.
--   **Subtração (-)**: Subtrai o segundo número do primeiro.
--   **Multiplicação (*)**: Multiplica dois números.
--   **Divisão (/)**: Divide o primeiro número pelo segundo.
--   **Tratamento de Erros**:
-    -   Impede a divisão por zero.
-    -   Valida a entrada para garantir que apenas números sejam inseridos.
-    -   Informa o usuário se um operador inválido for utilizado.
+* **Adição (+)** – Soma dois números.
+* **Subtração (-)** – Subtrai um número do outro.
+* **Multiplicação (*)** – Multiplica dois números.
+* **Divisão (/)** – Divide um número pelo outro.
+* **Interface visual** feita com **HTML e CSS**.
+* **Interatividade** utilizando **JavaScript**.
+* **Validação de entradas** para evitar erros de cálculo.
 
-## 🚀 Como Usar
+---
 
-### Pré-requisitos
+## 🛠️ Tecnologias Utilizadas
 
--   Ter o [Python 3](https://www.python.org/downloads/) instalado em sua máquina.
+* **HTML5** – Estrutura da aplicação.
+* **CSS3** – Estilização da interface.
+* **JavaScript** – Lógica da calculadora.
 
-### Executando o Projeto
+---
 
-1.  Clone ou faça o download do repositório.
-2.  Navegue até o diretório do projeto pelo terminal.
-3.  Execute o seguinte comando:
+## 🚀 Como Executar o Projeto
 
-    ```bash
-    python calculadora_simples.py
-    ```
-4.  Siga as instruções no terminal para inserir o primeiro número, o operador e o segundo número.
+1. Clone ou faça o download deste repositório.
 
-### Exemplo de Interação
+2. Navegue até a pasta do projeto.
+
+3. Abra o arquivo:
 
 ```
-Digite o primeiro número: 10
-Digire a operação (+, -, *, /): *
-Digite o segundo número: 5
-
-Resultado: 10.0 * 5.0 = 50.0
+index.html
 ```
+
+em qualquer navegador.
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+calculadora/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido para praticar:
+
+* Lógica de programação
+* Manipulação do DOM com JavaScript
+* Estruturação de páginas web
+* Criação de interfaces simples
+
+---
+
+## 📌 Melhorias Futuras
+
+* Implementar **modo escuro (dark mode)**.
+* Adicionar **teclado numérico funcional**.
+* Melhorar o **design da interface**.
+* Adicionar **histórico de cálculos**.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Fellype Dylon Souza Arrais**.
+
+---
